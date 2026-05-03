@@ -1,0 +1,13 @@
+area,time,vehicle_count,avg_speed
+BTM,8,300,25
+BTM,9,500,18
+BTM,10,650,15
+Whitefield,8,400,22
+Whitefield,9,700,14
+Whitefield,10,850,10
+Indiranagar,8,200,30
+Indiranagar,9,350,24
+Indiranagar,10,500,20
+Electronic City,8,450,20
+Electronic City,9,800,12
+Electronic City,10,950,8
